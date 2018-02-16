@@ -191,6 +191,4 @@ public class UniversalEventHandlerFactory extends EventHandlerFactory {
             logger.info("Received unsupported message from user '{}'", senderId);
         };
     }
-
-
 }
